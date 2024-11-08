@@ -1,0 +1,162 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://www.comforttechnology.com.bd/wp-content/uploads/2024/04/Dell-XPS-13-9380-Core-i5-8th-gen-8gb.jpg",
+        "category": "laptops",
+        "price": 1200,
+        "description": "Dell XPS 13 with Intel i7 processor, 16GB RAM, 512GB SSD.",
+        "Specification": [
+            "13.3-inch display",
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 2
+    },
+    {
+        "product_id": 2,
+        "product_title": "Apple iPhone 13",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-13-Green-1718.jpg",
+        "category": "phones",
+        "price": 799,
+        "description": "Apple iPhone 13 with A15 Bionic chip, 128GB storage, and dual camera.",
+        "Specification": [
+            "6.1-inch display",
+            "A15 Bionic",
+            "128GB storage",
+            "12MP dual camera"
+        ],
+        "availability": true,
+        "rating": 3
+    },
+    {
+        "product_id": 3,
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://gadgetz.com.bd/wp-content/uploads/2022/01/galaxy-watch4-silver-.jpg",
+        "category": "smartwatches",
+        "price": 250,
+        "description": "Samsung Galaxy Watch 4 with health monitoring, GPS, and AMOLED display.",
+        "Specification": [
+            "1.4-inch AMOLED display",
+            "GPS",
+            "Health monitoring",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 3
+    },
+    {
+        "product_id": 4,
+        "product_title": "Apple MacBook Pro M1",
+        "product_image": "https://techlink.com.bd/wp-content/uploads/2024/06/Apple-M1-Pro-Chip-16GB-RAM-512GB-SSD-Space-Gray-14-Inch-MacBook.jpg",
+        "category": "MacBooks",
+        "price": 1300,
+        "description": "Apple MacBook Pro with M1 chip, 8GB RAM, 256GB SSD.",
+        "Specification": [
+            "13.3-inch Retina display",
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4
+    },
+    {
+        "product_id": 5,
+        "product_title": "OnePlus 9 Pro",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-2.jpg",
+        "category": "phones",
+        "price": 969,
+        "description": "OnePlus 9 Pro with Snapdragon 888, 12GB RAM, and quad camera.",
+        "Specification": [
+            "6.7-inch display",
+            "Snapdragon 888",
+            "12GB RAM",
+            "Quad camera"
+        ],
+        "availability": true,
+        "rating": 4
+    },
+    {
+        "product_id": 6,
+        "product_title": "Beats Solo3 Wireless",
+        "product_image": "https://images-cdn.ubuy.co.in/64c64ff046f7180f51234158-beats-solo3-wireless-on-ear-headphones.jpg",
+        "category": "accessories",
+        "price": 199,
+        "description": "Beats Solo3 Wireless On-Ear Headphones with 40 hours battery life.",
+        "Specification": [
+            "On-ear",
+            "Wireless",
+            "40 hours battery life",
+            "Fast Fuel charging"
+        ],
+        "availability": true,
+        "rating": 2
+    },
+    {
+        "product_id": 7,
+        "product_title": "Samsung Galaxy Z Fold3",
+        "product_image": "https://m.media-amazon.com/images/I/51+W74-6c2L.jpg",
+        "category": "phones",
+        "price": 1799,
+        "description": "Samsung Galaxy Z Fold3 with foldable display, Snapdragon 888, 12GB RAM.",
+        "Specification": [
+            "7.6-inch foldable display",
+            "Snapdragon 888",
+            "12GB RAM",
+            "Triple camera"
+        ],
+        "availability": true,
+        "rating": 4
+    },
+    {
+        "product_id": 8,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/Accessories/Apple/Watch%20Series%207/Stainless%20Steel/Watch-S7-SS-Gold-800x800.jpg",
+        "category": "smartwatches",
+        "price": 399,
+        "description": "Apple Watch Series 7 with GPS, blood oxygen monitoring, and ECG app.",
+        "Specification": [
+            "Always-On Retina display",
+            "GPS",
+            "Blood oxygen monitoring",
+            "ECG app"
+        ],
+        "availability": true,
+        "rating": 5
+    },
+    {
+        "product_id": 9,
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://images-cdn.ubuy.co.in/6346e368d3e4ef5797301c42-logitech-mx-master-3-mouse-nirkabel.jpg",
+        "category": "accessories",
+        "price": 99,
+        "description": "Logitech MX Master 3 advanced wireless mouse with customizable buttons.",
+        "Specification": [
+            "Wireless",
+            "Customizable buttons",
+            "USB-C fast charging"
+        ],
+        "availability": true,
+        "rating": 1
+    },
+    {
+        "product_id": 10,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://www.zdnet.com/a/img/resize/2ee593b43b93b54995adeec5a114e475f48df75d/2022/09/14/7fd5f44b-0e68-4d44-9ae2-3488c7904164/lenovo-thinkpad-x1-carbon-gen-10-770x433.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "category": "laptops",
+        "price": 1600,
+        "description": "Lenovo ThinkPad X1 Carbon with Intel i7, 16GB RAM, 1TB SSD.",
+        "Specification": [
+            "14-inch display",
+            "Intel Core i7",
+            "16GB RAM",
+            "1TB SSD",
+            "Ultra-light design"
+        ],
+        "availability": true,
+        "rating": 5
+    }
+]
