@@ -3,7 +3,7 @@
 Welcome to **Gadget Heaven**—your ultimate destination for all things electronics! Explore our curated collection of laptops, smartphones, MacBooks, accessories, and more, all carefully selected to deliver the finest tech experience.
 
 ## Live Website Link
-[Explore the live site here](#) 
+[Explore the live site here](https://akib-gadgetheaven.surge.sh/) 
 
 ---
 
